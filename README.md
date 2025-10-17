@@ -12,7 +12,7 @@ The video part was working OK, but I noticed that the `xe` driver wasn't loaded,
 
 - CPU: 13th Gen Intel® Core™ i7-13700H × 20
 - GPU: Intel® Iris® Xe Graphics (RPL-P rev 04) 
-- Audio: Realtek ALC287
+- Audio: Realtek ALC3306 (detected as ALC287) 
 - Wi-Fi: Intel Corporation Raptor Lake PCH CNVi WiFi (rev 01)
 - Bluetooth: Intel Corp. AX211 Bluetooth
 

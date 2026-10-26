@@ -11,16 +11,22 @@ The video part was working OK, but I noticed that the `xe` driver wasn't loaded,
 ## Hardware
 
 - CPU: 13th Gen Intel® Core™ i7-13700H × 20
-- GPU: Intel® Iris® Xe Graphics (RPL-P rev 04) 
-- Audio: Realtek ALC3306 (detected as ALC287) 
+- GPU: Intel® Iris® Xe Graphics (RPL-P rev 04)
+- Audio: Realtek ALC3306 (detected as ALC287)
 - Wi-Fi: Intel Corporation Raptor Lake PCH CNVi WiFi (rev 01)
 - Bluetooth: Intel Corp. AX211 Bluetooth
 
-## Tested setup:
+## Tested setups
 
-- Fedora 42 Workstation (kernel version: Linux 6.16.7-200.fc42.x86_64)
-- Gnome 48 (Wayland) - Stock version
+### Fedora 42 Workstation
+- Kernel: Linux 6.16.7-200.fc42.x86_64
+- DE: GNOME 48 (Wayland) — Stock version
 - BIOS Version: LWCN33WW (latest available on 09/24/2025)
+
+### Debian GNU/Linux 13 (Trixie)
+- Kernel: Linux 6.12.113+deb13-amd64
+- DE: GNOME 48.7 (Wayland)
+- BIOS Version: LWCN33WW
 
 ## How to use
 
